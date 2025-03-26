@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+.title {
+  text-align: center;
+
+}
+
+img {
+ margin: 0 auto;
+ display: block;
+ width: 450px;
+ height: auto; 
+
+}
+
+.recipe-card {
+    border: solid navy 1px;
+    width: 75vw;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 10px;
+}
+
+.description {
+    margin: 0 auto;
+    width: 75vw;
+}
